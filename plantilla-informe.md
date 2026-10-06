@@ -6,8 +6,8 @@
 |---|---|
 | **Antes del finde** | Elegir partido y **escribir la pregunta** antes del pitido inicial. |
 | **Sáb / dom** | Partido entero (~1,5 h), notas con minuto. |
-| **Lunes 19:00** | Escribir ~400 palabras en inglés. Por la noche, corrección con IA según el protocolo. |
-| **Martes 15:00** | Reescribir (intentar la corrección antes de mirarla) y apuntar los errores en el registro. |
+| **Lunes 19:00** | Escribir ~400 palabras en inglés. |
+| **Martes 15:00** | Corrección con IA según el protocolo, reescribir (intentar la corrección antes de mirarla) y apuntar los errores en el registro. |
 | **Viernes** | Publicar (5 min) y difundir en la hora de contactos. |
 
 ## 1. La pregunta (antes del partido)
